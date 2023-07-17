@@ -10,7 +10,7 @@ import com.example.examencorte02.Ventas;
 
 import java.util.ArrayList;
 
-public class VentasDb implements Persistencia, Proyeccion {
+public class VentasDb implements Persistencia, Proyeccion  {
 
     private Context context;
     private VentasDbHelper helper;
