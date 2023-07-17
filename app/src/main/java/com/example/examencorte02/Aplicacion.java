@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 import Modelo.VentasDb;
 
-public class Aplicacion extends Application {
+public class Aplicacion extends Application   {
 
     public static ArrayList<Ventas> ventas;
     private VentasAdapter adaptadorVentas;
