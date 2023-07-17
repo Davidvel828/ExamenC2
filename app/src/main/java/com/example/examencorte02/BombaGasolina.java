@@ -1,6 +1,6 @@
 package com.example.examencorte02;
 
-public class BombaGasolina  {
+public class BombaGasolina   {
 
     private int id;
     private int numBomba;

@@ -206,7 +206,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void salirApp() {
-        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        AlertDialog.Builder builder = new AlertDialog.Builder(this) ;
         builder.setTitle("Confirmación");
         builder.setMessage("¿Estás seguro de que quieres salir?");
         builder.setPositiveButton("Sí", new DialogInterface.OnClickListener()  {

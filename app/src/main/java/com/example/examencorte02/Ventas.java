@@ -1,6 +1,6 @@
 package com.example.examencorte02;
 
-public class Ventas   {
+public class Ventas    {
     private int id;
     private int numBomba;
     private int tipoGasolina;

@@ -18,7 +18,7 @@ import java.util.ArrayList;
 
 import Modelo.VentasDb;
 
-public class ListaActivity extends AppCompatActivity  {
+public class ListaActivity extends AppCompatActivity   {
 
     private RecyclerView recyclerView;
     private RecyclerView.LayoutManager layoutManager;
