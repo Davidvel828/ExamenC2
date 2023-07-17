@@ -13,7 +13,7 @@ import com.example.examencorte02.Ventas;
 
 import java.util.ArrayList;
 
-public class VentasAdapter extends RecyclerView.Adapter<VentasAdapter.ViewHolder> implements View.OnClickListener  {
+public class VentasAdapter extends RecyclerView.Adapter<VentasAdapter.ViewHolder> implements View.OnClickListener   {
     private ArrayList<Ventas> listaVentas;
     private LayoutInflater inflater;
     private View.OnClickListener listener;
